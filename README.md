@@ -37,6 +37,7 @@ KuryenTell is a smart energy management system that transforms the way you handl
 
 ### 🔨Prerequisites
 
+<p align="justify">
 Before you begin, make sure you have the following requirements in place:
 
 In the creation of the project, the group used PyCharm, in pycharm it is possible to download different packages from the settings, that will be used to run the program.
@@ -55,7 +56,6 @@ The version of openpyxl used was 3.1.2.  Our projects take user input which is t
 
 - **et-xmlfile**
 
-<p align="justify">
 The version of et-xmlfile used was 1.1.0. It is a low memory library for creating large XML files. It is based upon the xmlfile module from lxml with the aim of allowing code to be developed that will work with both libraries. 
 </p>
 
